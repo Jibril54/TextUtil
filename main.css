@@ -1,0 +1,61 @@
+/*-----------Color----------*/
+
+.red {
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.green {
+    color: green;
+}
+.brown {
+    color: brown;
+}
+.pink {
+    color: pink;
+}
+
+.orange {
+    color: orange;
+}
+
+.violet {
+    color: violet;
+}
+
+.beige {
+    color: beige;
+}
+
+.silver {
+    color: silver;
+}
+
+
+
+/*-----------Height----------*/
+
+.little {
+    font-size: small;
+}
+
+.medium {
+    font-size: medium;
+}
+
+.big {
+    font-size: large;
+}
+
+/*-----------Transform----------*/
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+
