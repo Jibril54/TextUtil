@@ -58,4 +58,65 @@
     text-transform: lowercase;
 }
 
+/*-----------Opacity----------*/
+.o-very {
+    opacity: 1;
+}
 
+.o-medium {
+    opacity: 0.7;
+}
+
+.o-less{
+    opacity: 0.4;
+}
+
+.o-0 {
+    opacity: 0;
+}
+
+/*-----------Weight----------*/
+.w-very {
+    font-weight: 900;
+}
+
+.w-medium {
+    font-weight: 600;
+}
+
+.w-less-med {
+    font-weight: 400;
+}
+
+.w-less {
+    font-weight: 300;
+}
+
+.w-0 {
+    font-weight: 200;
+}
+/*-----------Style----------*/
+.s-italic {
+    font-style: italic;
+}
+
+.s-normal {
+    font-style: normal;
+}
+
+.s-oblique {
+    font-style: oblique;
+}
+/*-----------Align----------*/
+.a-left {
+    text-align: left;
+}
+.a-right{
+    text-align: right;
+}
+.a-center{
+     text-align: center;
+ }
+.a-justify{
+    text-align: justify;
+}
